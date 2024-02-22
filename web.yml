@@ -4,6 +4,6 @@ spring:
       client:
         config:
           storage:
-            url: http://localhost:8081/
-          payment:
             url: http://localhost:8082/
+          payment:
+            url: http://localhost:8081/
